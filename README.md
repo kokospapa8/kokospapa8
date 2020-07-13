@@ -2,6 +2,7 @@
 
 more about me [here](https://www.notion.so/nujabes8/Jinwook-Baek-kokospapa8-0b4a5b64fe7f475dba2387da7f2d8bf5)
 
+Check out my blog [here](https://www.notion.so/kokospapa/Kokospapa-Blog-52cf016e63ee4243bf5ef79e7aadd8d2)
 
 <!--
 **kokospapa8/kokospapa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
