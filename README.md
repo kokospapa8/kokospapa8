@@ -8,7 +8,7 @@
 
 ### _Hi,_ I'm Jinwook. 👋
 
-💻 Software Developer | 6x AWS Certified | 3x GCP Certified | CKAD | Cloud Native | Python Web Developer | Data Engineer
+💻 Software Developer | 9x AWS Certified | 3x GCP Certified | CKAD | Cloud Native | Python Web Developer | Data Engineer
 
 🔭 I'm currently not working.
 
