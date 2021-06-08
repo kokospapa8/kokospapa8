@@ -19,7 +19,7 @@ About me. [here](https://www.notion.so/nujabes8/Jinwook-Baek-kokospapa8-0b4a5b64
 Blog. [here](https://blog.kokospapa.com/)<br/>
 Linkedin. [here](https://www.linkedin.com/in/kokospapa8/)<br/>
 Corgi Insta. [here](https://www.instagram.com/corgi_x2/)<br/>
-Pypi. [here]https://pypi.org/project/django-async-image-upload/0.1.0/<br/>
+Pypi. [here](https://pypi.org/project/django-async-image-upload/0.1.0/)<br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kokos.papa8@gmail.com)](mailto:kokos.papa8@@gmail.com) ![GitHub User's stars](https://img.shields.io/github/stars/kokospapa8?logo=github) ![GitHub followers](https://img.shields.io/github/followers/kokospapa8?logo=github)
 
