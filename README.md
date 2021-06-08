@@ -8,11 +8,9 @@
 
 ### _Hi,_ I'm Jinwook. 👋
 
-💻 Software Developer | 9x AWS Certified | 3x GCP Certified | CKAD | Cloud Native | Python Web Developer | Data Engineer
+💻 Software Developer | 1x AWS Certified | 5x GCP Certified | CKAD | Cloud Native | Python Web Developer | Data Engineer
 
-🔭 I'm currently not working.
-
-🌱 I'm currently learning AR technology with ARcore.
+🔭 I'm currently working.
 
 ⚡ I'm a father of two corgis!
 
@@ -21,9 +19,9 @@ About me. [here](https://www.notion.so/nujabes8/Jinwook-Baek-kokospapa8-0b4a5b64
 Blog. [here](https://blog.kokospapa.com/)<br/>
 Linkedin. [here](https://www.linkedin.com/in/kokospapa8/)<br/>
 Corgi Insta. [here](https://www.instagram.com/corgi_x2/)<br/>
+Pypi. [here]https://pypi.org/project/django-async-image-upload/0.1.0/<br/>
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:joonas.yoon@gmail.com)](mailto:joonas.yoon@gmail.com) ![GitHub User's stars](https://img.shields.io/github/stars/joonas-yoon?logo=github) ![GitHub followers](https://img.shields.io/github/followers/joonas-yoon?logo=github) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonas-yoon%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kokos.papa8@gmail.com)](mailto:kokos.papa8@@gmail.com) ![GitHub User's stars](https://img.shields.io/github/stars/kokospapa8?logo=github) ![GitHub followers](https://img.shields.io/github/followers/kokospapa8?logo=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonas-yoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
