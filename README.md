@@ -23,7 +23,7 @@ Pypi. [here](https://pypi.org/project/django-async-image-upload/0.1.0/)<br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kokos.papa8@gmail.com)](mailto:kokos.papa8@@gmail.com) ![GitHub User's stars](https://img.shields.io/github/stars/kokospapa8?logo=github) ![GitHub followers](https://img.shields.io/github/followers/kokospapa8?logo=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonas-yoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokospapa8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kokospapa8/kokospapa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
